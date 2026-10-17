@@ -33,11 +33,7 @@
   <modelGroups type="rgb_effects">
     <modelGroup name="ALL" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="50_Node_Candy_Cane,50_Node_Candy_Cane-2,Boscoyo_Singing_Santa,Single Line,Single Line-3,Single Line-4">
     </modelGroup>
-    <modelGroup name="Bush_Arches" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="">
-    </modelGroup>
-    <modelGroup name="Complete_Tree" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="">
-    </modelGroup>
-    <modelGroup name="Garage Door" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Single Line,Single Line-3">
+    <modelGroup name="Garage Door" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Single Line,Single Line-3,Single Line-4">
     </modelGroup>
   </modelGroups>
   <view_objects>
