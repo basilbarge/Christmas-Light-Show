@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models type="rgb_effects">
+    <model name="50_Node_Candy_Cane" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="220" CustomWidth="82" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="50" PixelSize="2" PixelType="Bullets" RotateX="180.000000" RotateY="-0.000005" RotateZ="-180.000000" ScaleX="0.392700" ScaleY="0.291000" ScaleZ="0.392700" SourceVersion="2026.18" StartChannel="1" StartSide="B" StrandNames="MyCustomModel" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="409.899414" WorldPosY="400.993103" WorldPosZ="0.000000" CustomModelCompressed="25,0,37;28,2,56;24,6,18;26,7,37;27,9,53;23,13,22;38,14,38;29,14,72;37,16,50;39,19,26;30,19,66;21,21,5;22,24,12;36,24,60;40,28,18;32,32,81;31,33,73;35,35,66;20,40,0;19,40,8;41,40,15;34,47,71;33,47,77;17,60,0;18,60,8;42,60,15;16,80,0;15,80,8;43,80,15;13,100,0;14,100,8;44,100,15;12,120,0;11,120,8;45,120,15;9,140,0;10,140,8;46,140,15;8,159,0;7,159,8;47,159,15;5,179,0;6,179,8;48,179,15;4,199,0;3,199,8;49,199,15;1,219,0;2,219,8;50,219,15">
+      <subModel name="Outline" bufferstyle="Default" layout="horizontal" line0="1-2,4-5,8-9,12-13,16-17,20-21,24-25,28-29,32-50" type="ranges"/>
+      <subModel name="Inside Hook" bufferstyle="Default" layout="horizontal" line0="34-50" type="ranges"/>
+      <subModel name="Middle Hook" bufferstyle="Default" layout="horizontal" line0="2-3,6-7,10-11,14-15,18-19,22-23,26-27,30-31,33" type="ranges"/>
+      <subModel name="Outside Hook" bufferstyle="Default" layout="horizontal" line0="1,4-5,8-9,12-13,16-17,20-21,24-25,28-29,32" type="ranges"/>
+      <subModel name="Stripes Alternating 1" bufferstyle="Default" layout="horizontal" line0="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31-32,34,36,38,40,42,44,46,48,50" type="ranges"/>
+      <subModel name="Stripes Alternating 2" bufferstyle="Default" layout="horizontal" line0="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32-33,35,37,39,41,43,45,47,49" type="ranges"/>
+    </model>
+    <model name="50_Node_Candy_Cane-2" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="220" CustomWidth="82" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="50" PixelSize="2" PixelType="Bullets" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="0.314100" ScaleY="0.299300" ScaleZ="0.314100" SourceVersion="2026.18" StartChannel="151" StartSide="B" StrandNames="MyCustomModel" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="543.120789" WorldPosY="400.900085" WorldPosZ="0.000000" CustomModelCompressed="25,0,37;28,2,56;24,6,18;26,7,37;27,9,53;23,13,22;38,14,38;29,14,72;37,16,50;39,19,26;30,19,66;21,21,5;22,24,12;36,24,60;40,28,18;32,32,81;31,33,73;35,35,66;20,40,0;19,40,8;41,40,15;34,47,71;33,47,77;17,60,0;18,60,8;42,60,15;16,80,0;15,80,8;43,80,15;13,100,0;14,100,8;44,100,15;12,120,0;11,120,8;45,120,15;9,140,0;10,140,8;46,140,15;8,159,0;7,159,8;47,159,15;5,179,0;6,179,8;48,179,15;4,199,0;3,199,8;49,199,15;1,219,0;2,219,8;50,219,15">
+      <subModel name="Outline" bufferstyle="Default" layout="horizontal" line0="1-2,4-5,8-9,12-13,16-17,20-21,24-25,28-29,32-50" type="ranges"/>
+      <subModel name="Inside Hook" bufferstyle="Default" layout="horizontal" line0="34-50" type="ranges"/>
+      <subModel name="Middle Hook" bufferstyle="Default" layout="horizontal" line0="2-3,6-7,10-11,14-15,18-19,22-23,26-27,30-31,33" type="ranges"/>
+      <subModel name="Outside Hook" bufferstyle="Default" layout="horizontal" line0="1,4-5,8-9,12-13,16-17,20-21,24-25,28-29,32" type="ranges"/>
+      <subModel name="Stripes Alternating 1" bufferstyle="Default" layout="horizontal" line0="1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31-32,34,36,38,40,42,44,46,48,50" type="ranges"/>
+      <subModel name="Stripes Alternating 2" bufferstyle="Default" layout="horizontal" line0="2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32-33,35,37,39,41,43,45,47,49" type="ranges"/>
+    </model>
+    <model name="Boscoyo Large Arch" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="51" CustomWidth="99" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="50" PixelSize="2" PixelType="12mm bullet or square" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="1.347700" ScaleY="1.000000" ScaleZ="0.010200" SourceVersion="2026.18" StartChannel="301" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="336.841614" WorldPosY="299.334015" WorldPosZ="0.000000" CustomModelCompressed="23,0,41;24,0,44;25,0,47;26,0,50;27,0,53;28,0,56;22,1,38;29,1,59;21,2,35;30,2,62;20,3,32;31,3,65;19,4,29;32,4,68;18,5,26;33,5,71;17,7,23;34,7,74;16,8,20;35,8,77;15,10,18;36,10,79;14,12,16;37,12,81;13,15,13;38,15,84;12,17,11;39,17,86;11,20,9;40,20,88;10,22,7;41,22,90;9,25,6;42,25,91;8,28,4;43,28,93;7,31,3;44,31,94;6,34,2;45,34,95;5,37,1;46,37,96;4,40,0;47,40,97;3,43,0;48,43,97;2,46,0;49,46,97;1,50,0;50,50,98">
+    </model>
+    <model name="Boscoyo Large Arch-2" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="51" CustomWidth="99" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="50" PixelSize="2" PixelType="12mm bullet or square" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="1.347700" ScaleY="1.000000" ScaleZ="0.010200" SourceVersion="2026.18" StartChannel="451" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="472.484192" WorldPosY="299.354004" WorldPosZ="0.000000" CustomModelCompressed="23,0,41;24,0,44;25,0,47;26,0,50;27,0,53;28,0,56;22,1,38;29,1,59;21,2,35;30,2,62;20,3,32;31,3,65;19,4,29;32,4,68;18,5,26;33,5,71;17,7,23;34,7,74;16,8,20;35,8,77;15,10,18;36,10,79;14,12,16;37,12,81;13,15,13;38,15,84;12,17,11;39,17,86;11,20,9;40,20,88;10,22,7;41,22,90;9,25,6;42,25,91;8,28,4;43,28,93;7,31,3;44,31,94;6,34,2;45,34,95;5,37,1;46,37,96;4,40,0;47,40,97;3,43,0;48,43,97;2,46,0;49,46,97;1,50,0;50,50,98">
+    </model>
+    <model name="Boscoyo Large Arch-3" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="51" CustomWidth="99" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="50" PixelSize="2" PixelType="12mm bullet or square" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="1.347700" ScaleY="1.000000" ScaleZ="0.010200" SourceVersion="2026.18" StartChannel="601" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="613.406189" WorldPosY="301.322296" WorldPosZ="0.000000" CustomModelCompressed="23,0,41;24,0,44;25,0,47;26,0,50;27,0,53;28,0,56;22,1,38;29,1,59;21,2,35;30,2,62;20,3,32;31,3,65;19,4,29;32,4,68;18,5,26;33,5,71;17,7,23;34,7,74;16,8,20;35,8,77;15,10,18;36,10,79;14,12,16;37,12,81;13,15,13;38,15,84;12,17,11;39,17,86;11,20,9;40,20,88;10,22,7;41,22,90;9,25,6;42,25,91;8,28,4;43,28,93;7,31,3;44,31,94;6,34,2;45,34,95;5,37,1;46,37,96;4,40,0;47,40,97;3,43,0;48,43,97;2,46,0;49,46,97;1,50,0;50,50,98">
+    </model>
+    <model name="Boscoyo_Singing_Santa" DisplayAs="Custom" Antialias="1" Controller="No Controller" CustomHeight="143" CustomWidth="72" Depth="1" Dir="L" LayoutGroup="Default" PixelCount="250" PixelSize="2" PixelType="12mm bullet" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="0.938100" ScaleY="0.459900" ScaleZ="0.014100" SourceVersion="2026.18" StartChannel="751" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="482.453003" WorldPosY="403.569794" WorldPosZ="0.000000" CustomModelCompressed="126,0,37;127,0,40;128,0,43;129,1,46;125,2,33;124,4,30;130,4,50;123,6,27;131,7,53;122,8,24;132,10,56;121,12,21;133,14,58;147,15,54;120,16,19;134,18,60;119,20,16;136,20,64;148,21,54;137,21,67;146,22,57;135,22,62;138,23,70;118,24,15;145,25,60;149,26,54;93,27,26;92,27,29;89,27,32;88,27,35;85,27,38;117,28,13;96,28,23;139,28,71;97,29,20;84,29,41;144,29,61;100,30,17;82,30,45;101,31,14;81,31,47;98,32,20;150,32,54;116,33,11;99,33,17;95,33,23;94,33,26;91,33,30;90,33,33;87,33,36;78,33,50;143,33,62;140,33,70;102,34,14;86,34,39;115,35,8;83,35,42;77,35,53;141,35,67;103,36,11;142,36,64;80,37,45;109,38,15;79,38,48;114,39,6;104,39,9;49,39,27;151,39,55;47,40,24;71,40,44;106,41,14;70,41,42;76,41,50;107,42,16;48,42,25;113,43,5;105,43,7;50,43,29;46,44,22;72,44,46;75,44,52;152,44,55;68,45,40;69,45,42;110,46,12;108,46,18;51,46,31;67,46,37;73,47,48;45,48,21;52,48,33;112,49,5;74,49,51;153,49,54;111,50,7;30,50,11;43,51,21;66,51,39;65,51,42;42,52,18;29,53,8;44,53,24;41,54,15;53,54,36;64,54,45;25,55,3;26,55,6;154,55,53;156,55,55;157,56,57;31,57,13;63,57,47;24,58,1;28,58,7;155,60,53;158,60,60;40,61,18;39,61,20;54,61,40;62,61,42;27,63,6;38,63,22;55,63,39;61,63,44;23,64,0;32,64,17;35,64,19;58,64,41;159,64,60;162,65,54;34,66,18;36,66,20;57,66,40;59,66,42;20,67,6;33,67,17;37,67,22;56,67,38;60,67,44;22,68,2;163,69,54;160,69,58;19,70,7;161,70,57;21,71,4;18,73,6;173,73,27;172,73,31;171,73,34;164,74,55;184,75,8;180,75,23;174,75,25;170,75,36;227,75,53;183,76,15;167,76,45;17,77,5;181,77,20;185,78,10;182,79,17;169,79,40;168,79,43;165,79,51;228,79,55;186,80,13;179,80,24;177,80,36;166,80,47;187,81,14;175,81,27;176,81,33;226,81,48;16,82,4;13,83,8;178,83,30;225,84,46;229,84,56;14,85,5;188,86,16;193,86,29;15,87,4;12,87,7;224,87,43;189,89,18;192,89,27;194,89,32;230,89,56;198,90,29;223,90,40;190,91,21;191,91,24;197,91,31;195,91,35;222,91,38;11,92,6;199,92,27;203,92,29;200,93,24;196,93,34;201,94,26;204,94,32;231,94,56;208,95,24;221,95,35;202,96,29;10,97,6;209,98,24;207,98,26;205,98,33;220,98,35;206,99,29;232,99,56;210,101,25;211,101,27;219,101,34;9,102,6;212,102,29;213,102,31;215,103,26;218,103,32;233,103,55;214,105,29;8,106,8;216,106,28;217,106,31;234,108,54;7,110,10;235,112,52;6,114,11;236,117,51;5,118,12;237,121,49;4,123,13;238,124,47;239,127,45;3,128,13;240,129,42;2,132,12;241,132,40;242,135,37;1,137,10;243,138,35;250,139,14;249,140,17;244,140,32;248,141,19;246,141,26;245,141,29;247,142,23">
+      <faceInfo CustomColors="" Eyes-Closed="33,34,36,37,56,57,59,60" Eyes-Closed-Color="" Eyes-Closed2="" Eyes-Closed2-Color="" Eyes-Closed3="" Eyes-Closed3-Color="" Eyes-Open="32-40,54-62" Eyes-Open-Color="" Eyes-Open2="" Eyes-Open2-Color="" Eyes-Open3="" Eyes-Open3-Color="" FaceOutline="1-31,41-53,63-193,194,195,222-250" FaceOutline-Color="" FaceOutline2="" FaceOutline2-Color="" Mouth-AI="200-202,196,195,220,221,211-213,209,204,208" Mouth-AI-Color="" Mouth-AI2="" Mouth-AI2-Color="" Mouth-E="200-202,196,195,215-221,208-210,204" Mouth-E-Color="" Mouth-E2="" Mouth-E2-Color="" Mouth-etc="200-202,196,195,204-208,221" Mouth-etc-Color="" Mouth-etc2="" Mouth-etc2-Color="" Mouth-FV="200-202,196,195,204,205,207,208,221" Mouth-FV-Color="" Mouth-FV2="" Mouth-FV2-Color="" Mouth-L="205-210,215-221" Mouth-L-Color="" Mouth-L2="" Mouth-L2-Color="" Mouth-MBP="205-209,211-213,219-221" Mouth-MBP-Color="" Mouth-MBP2="" Mouth-MBP2-Color="" Mouth-O="197-199,201,207,210,215-218,204,205" Mouth-O-Color="" Mouth-O2="" Mouth-O2-Color="" Mouth-rest="205-208,221" Mouth-rest-Color="" Mouth-rest2="" Mouth-rest2-Color="" Mouth-U="197-199,207,201,211-213,204,205" Mouth-U-Color="" Mouth-U2="" Mouth-U2-Color="" Mouth-WQ="199,201,207,206,205,204,203" Mouth-WQ-Color="" Mouth-WQ2="" Mouth-WQ2-Color="" Name="Boscoyo_Singing_Santa" Type="NodeRange"/>
+      <subModel name="Beard_eyebrows_brim_ball" bufferstyle="Default" layout="horizontal" line0="1-20,250,27-29,30,31,41-53,63-116,151-155,162-164,228-249,178,180 -193,165-169,194,195,222-227,135-145" type="ranges"/>
+      <subModel name="Hat" bufferstyle="Default" layout="horizontal" line0="117-134,146-150" type="ranges"/>
+      <subModel name="Ears_Nose" bufferstyle="Default" layout="horizontal" line0="170-174,175-177,179,156-161,21-26" type="ranges"/>
+    </model>
+    <model name="Single Line" DisplayAs="Single Line" Antialias="1" Controller="No Controller" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="50" NumStrings="1" PixelSize="2" SourceVersion="2026.18" StartChannel="1501" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="86.238602" WorldPosY="288.440308" WorldPosZ="0.000000" X2="-4.403625" Y2="156.330261" Z2="0.000000">
+    </model>
+    <model name="Single Line-2" DisplayAs="Single Line" Antialias="1" Controller="No Controller" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="50" NumStrings="1" PixelSize="2" SourceVersion="2026.18" StartChannel="1651" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="81.834999" WorldPosY="444.770599" WorldPosZ="0.000000" X2="214.678833" Y2="-2.201813" Z2="0.000000">
+    </model>
+    <model name="Single Line-3" DisplayAs="Single Line" Antialias="1" Controller="No Controller" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="50" NumStrings="1" PixelSize="2" SourceVersion="2026.18" StartChannel="1801" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="297.614685" WorldPosY="440.366913" WorldPosZ="0.000000" X2="2.201813" Y2="-143.119263" Z2="0.000000">
+    </model>
+    <model name="Single Line-4" DisplayAs="Single Line" Antialias="1" Controller="No Controller" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="50" NumStrings="1" PixelSize="2" SourceVersion="2026.18" StartChannel="1951" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="348.256897" WorldPosY="466.788910" WorldPosZ="0.000000" X2="420.550415" Y2="-12.110107" Z2="0.000000">
+    </model>
+    <model name="Star" DisplayAs="Star" Antialias="1" Controller="No Controller" Dir="L" LayerSizes="50" LayoutGroup="Default" NodesPerString="50" NumStrings="1" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="1.916900" ScaleY="2.111500" ScaleZ="0.000000" SourceVersion="2026.18" starCenterPercent="-1" StarPoints="5" starRatio="2.618034" StarStartLocation="Bottom Ctr-CW" StartChannel="2101" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="856.430115" WorldPosY="434.740509" WorldPosZ="0.000000">
+    </model>
+    <model name="Tree" DisplayAs="Tree" AlternateNodes="false" Antialias="1" Controller="No Controller" Dir="L" exportFirstStrand="1" LayoutGroup="Default" NodesPerString="50" NoZig="false" NumStrings="16" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="2.992900" ScaleY="2.311700" ScaleZ="2.992900" SourceVersion="2026.18" StartChannel="2251" StartSide="B" StrandDir="Vertical" StrandsPerString="1" StringType="RGB Nodes" Transparency="0" TreeBottomTopRatio="6.000000" TreeDegrees="360.000000" TreePerspective="0.200000" TreeRotation="3.000000" TreeSpiralRotations="0.000000" TreeType="0" versionNumber="8" WorldPosX="855.297729" WorldPosY="227.189102" WorldPosZ="0.000000">
+    </model>
+  </models>
+  <modelGroups type="rgb_effects">
+    <modelGroup name="ALL" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="50_Node_Candy_Cane,50_Node_Candy_Cane-2,Boscoyo Large Arch,Boscoyo Large Arch-2,Boscoyo Large Arch-3,Boscoyo_Singing_Santa,Single Line,Single Line-2,Single Line-3,Single Line-4,Star,Tree">
+    </modelGroup>
+    <modelGroup name="Bush_Arches" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Boscoyo Large Arch,Boscoyo Large Arch-2,Boscoyo Large Arch-3">
+    </modelGroup>
+    <modelGroup name="Complete_Tree" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Star,Tree">
+    </modelGroup>
+    <modelGroup name="Garage Door" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Single Line,Single Line-2,Single Line-3">
+    </modelGroup>
+  </modelGroups>
+  <view_objects>
+    <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="-90.000000" RotateY="-0.000000" RotateZ="0.000000" GridLineSpacing="50" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
+  </view_objects>
+  <layoutGroups>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=596;besth=1083;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=738;besth=551;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=574;besth=376;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1340;besth=804;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=45;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=496;besth=489;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=377;besth=385;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=281;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=76;floaty=76;floatw=422;floath=337|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=157;besth=63;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=352|dock_size(1,0,0)=122|dock_size(5,0,0)=159|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <LayoutMode3D value="0"/>
+    <ShowGUID value="227fa218-dab8-4896-a1b3-1ec4e33e9554"/>
+    <backgroundBrightness value="20"/>
+    <backgroundImage value="/home/basilbarge/Projects/Christmas-Light-Show/Front of House.jpg"/>
+    <previewHeight value="720"/>
+    <previewWidth value="1280"/>
+    <xlightsVersion value="2026.18"/>
+  </settings>
+  <modelSets>
+  </modelSets>
+  <views>
+  </views>
+  <colors version="1">
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelInVisualiser Red="0" Green="128" Blue="255"/>
+    <ModelNotOnController Red="255" Green="128" Blue="0"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="0"/>
+    <TextUnselected Red="0" Green="0" Blue="0"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+  </Viewpoints>
+</xrgb>

@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.18</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/home/basilbarge/Projects/Christmas-Light-Show/The Greatest Showman Cast - Never Enough (Official Audio).mp3</mediaFile>
+    <sequenceDuration>208.143</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes />
+  <EffectDB />
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="Lyrics" visible="true" views=",Master View" active="true" />
+    <Element collapsed="false" type="model" name="ALL" visible="true" />
+    <Element collapsed="false" type="model" name="Bush_Arches" visible="true" />
+    <Element collapsed="false" type="model" name="Garage Door" visible="true" />
+    <Element collapsed="false" type="model" name="Complete_Tree" visible="true" />
+    <Element collapsed="false" type="model" name="50_Node_Candy_Cane" visible="true" />
+    <Element collapsed="false" type="model" name="50_Node_Candy_Cane-2" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo Large Arch" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo Large Arch-2" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo Large Arch-3" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo_Singing_Santa" visible="true" />
+    <Element collapsed="false" type="model" name="Single Line" visible="true" />
+    <Element collapsed="false" type="model" name="Single Line-2" visible="true" />
+    <Element collapsed="false" type="model" name="Single Line-3" visible="true" />
+    <Element collapsed="false" type="model" name="Single Line-4" visible="true" />
+    <Element collapsed="false" type="model" name="Star" visible="true" />
+    <Element collapsed="false" type="model" name="Tree" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Lyrics">
+      <EffectLayer>
+        <Effect label="I'm trying to hold my breath" startTime="15750" endTime="19900" />
+        <Effect label="Let it stay this way" startTime="21550" endTime="24850" />
+        <Effect label="Can't let this moment end" startTime="25500" endTime="29500" />
+        <Effect label="You set off a dream in me" startTime="30450" endTime="34550" />
+        <Effect label="Getting louder now" startTime="36250" endTime="38850" />
+        <Effect label="Can you hear it echoing?" startTime="38850" endTime="39900" />
+        <Effect label="Take my hand" startTime="39900" endTime="44050" />
+        <Effect label="Will you share this with me?" startTime="44050" endTime="48200" />
+        <Effect label="'Cause, darling, without you" startTime="48200" endTime="52350" />
+        <Effect label="All the shine of a thousand spotlights" startTime="52350" endTime="56500" />
+        <Effect label="All the stars we steal from the night sky" startTime="56500" endTime="60650" />
+        <Effect label="Will never be enough" startTime="60650" endTime="64800" />
+        <Effect label="Never be enough" startTime="64800" endTime="68950" />
+        <Effect label="Towers of gold are still too little" startTime="68950" endTime="73100" />
+        <Effect label="These hands could hold the world but it'll" startTime="73100" endTime="77250" />
+        <Effect label="Never be enough" startTime="77250" endTime="81400" />
+        <Effect label="Never be enough for me" startTime="81400" endTime="85550" />
+        <Effect label="Never, never" startTime="85550" endTime="89700" />
+        <Effect label="Never, never" startTime="89700" endTime="93850" />
+        <Effect label="Never" startTime="93850" endTime="98000" />
+        <Effect label="For me, for me" startTime="98000" endTime="102150" />
+        <Effect label="Never enough" startTime="102150" endTime="106300" />
+        <Effect label="Never enough" startTime="106300" endTime="110450" />
+        <Effect label="Never enough" startTime="110450" endTime="114600" />
+        <Effect label="For me, for me, for me" startTime="114600" endTime="118750" />
+        <Effect label="All the shine of a thousand spotlights" startTime="118750" endTime="122900" />
+        <Effect label="All the stars we steal from the night sky" startTime="122900" endTime="127050" />
+        <Effect label="Will never be enough" startTime="127050" endTime="131200" />
+        <Effect label="Never be enough" startTime="131200" endTime="135350" />
+        <Effect label="Towers of gold are still too little" startTime="135350" endTime="139500" />
+        <Effect label="These hands could hold the world but it'll" startTime="139500" endTime="143650" />
+        <Effect label="Never be enough" startTime="143650" endTime="147800" />
+        <Effect label="Never be enough for me" startTime="147800" endTime="151950" />
+        <Effect label="Never, never" startTime="151950" endTime="156100" />
+        <Effect label="Never, never" startTime="156100" endTime="160250" />
+        <Effect label="Never" startTime="160250" endTime="164400" />
+        <Effect label="For me, for me" startTime="164400" endTime="168550" />
+        <Effect label="Never enough, never, never" startTime="168550" endTime="172700" />
+        <Effect label="Never enough, never, never" startTime="172700" endTime="176850" />
+        <Effect label="Never enough" startTime="176850" endTime="181000" />
+        <Effect label="For me, for me, for me" startTime="181000" endTime="185150" />
+        <Effect label="For me" startTime="185150" endTime="189300" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="ALL">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Bush_Arches">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Garage Door">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Complete_Tree">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="50_Node_Candy_Cane">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="50_Node_Candy_Cane-2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo Large Arch">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo Large Arch-2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo Large Arch-3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo_Singing_Santa">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Single Line-3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Single Line-4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
