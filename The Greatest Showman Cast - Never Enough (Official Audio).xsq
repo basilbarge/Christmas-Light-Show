@@ -17,34 +17,59 @@
     <imageDir></imageDir>
   </head>
   <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_PixelOffsets=0,E_CHECKBOX_Faces_SuppressShimmer=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHECKBOX_Faces_WrapX=0,E_CHOICE_Faces_Direction=none,E_CHOICE_Faces_EyeBlinkDuration=Short,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Default,E_CHOICE_Faces_Scaling=Default (from face),E_CHOICE_Faces_TimingTrack=Lyrics,E_NOTEBOOK=Start Position,E_SLIDER_FacesXC=0,E_SLIDER_FacesYC=0,E_SLIDER_Faces_EndScale=100,E_SLIDER_Faces_StartScale=100,E_TEXTCTRL_Faces_FrameRateAdj=0.0,E_TEXTCTRL_Faces_Speed=5.0,E_TEXTCTRL_Faces_TransparentBlack=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=3,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=10.00,T_TEXTCTRL_Fadeout=4.15</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=3,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHECKBOX_Ripple_FilterRegex=0,E_CHOICE_Ripple_Draw_Style=Solid Outward Ripple,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_CHOICE_Ripple_TimingTrack=,E_SLIDER_Ripple_Direction=0,E_SLIDER_Ripple_Duration=1000,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Scale=107,E_SLIDER_Ripple_Thickness=22,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,E_TEXTCTRL_Ripple_FilterLabel=,E_TEXTCTRL_Ripple_Outline=6.4,E_TEXTCTRL_Ripple_Spacing=1.0,E_TEXTCTRL_Ripple_Twist=0.0,E_TEXTCTRL_Ripple_Velocity=1.3,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=left,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=35,E_TEXTCTRL_Eff_On_Start=35,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=10.00,T_TEXTCTRL_Fadeout=4.15</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHECKBOX_Faces_PixelOffsets=0,E_CHECKBOX_Faces_SuppressShimmer=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHECKBOX_Faces_WrapX=0,E_CHOICE_Faces_Direction=none,E_CHOICE_Faces_EyeBlinkDuration=Normal,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Default,E_CHOICE_Faces_Scaling=Scale Keep Aspect Ratio,E_CHOICE_Faces_TimingTrack=Lyrics,E_CHOICE_Faces_UseState=,E_NOTEBOOK=Start Scale,E_SLIDER_FacesXC=0,E_SLIDER_FacesYC=0,E_SLIDER_Faces_EndScale=100,E_SLIDER_Faces_StartScale=100,E_TEXTCTRL_Faces_FrameRateAdj=0.0,E_TEXTCTRL_Faces_Speed=5.0,E_TEXTCTRL_Faces_TransparentBlack=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
   </EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="false" type="model" name="ALL" visible="true" />
+    <Element collapsed="true" type="model" name="ALL" visible="true" />
     <Element collapsed="false" type="model" name="Garage Door" visible="true" />
-    <Element collapsed="false" type="model" name="50_Node_Candy_Cane" visible="true" />
     <Element collapsed="false" type="model" name="50_Node_Candy_Cane-2" visible="true" />
     <Element collapsed="false" type="model" name="Boscoyo_Singing_Santa" visible="true" />
+    <Element collapsed="false" type="model" name="50_Node_Candy_Cane" visible="true" />
     <Element collapsed="false" type="timing" name="Lyrics" visible="true" views=",Master View" active="true" />
     <Element collapsed="false" type="model" name="Single Line" visible="true" />
     <Element collapsed="false" type="model" name="Single Line-3" visible="true" />
     <Element collapsed="false" type="model" name="Single Line-4" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo 16 inch Arrow flake" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 12 2 prong" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 12 3 prong" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 12 Arrow" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 12 Diamond" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 16 2 prong" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 16 3 prong" visible="true" />
+    <Element collapsed="false" type="model" name="Boscoyo ChromaFlake 16 Diamond" visible="true" />
+    <Element collapsed="false" type="model" name="Mrs_Claus_New_for_Model" visible="true" />
   </DisplayElements>
   <ElementEffects>
     <Element type="model" name="ALL">
+      <EffectLayer>
+        <Effect ref="0" name="Meteors" startTime="0" endTime="19900" palette="0" />
+        <Effect ref="1" name="On" id="1" startTime="20600" endTime="21550" palette="1" />
+        <Effect ref="2" name="Meteors" id="2" startTime="21600" endTime="44750" palette="0" />
+        <Effect ref="3" name="Ripple" id="3" startTime="44750" endTime="46350" palette="0" />
+        <Effect ref="4" name="Curtain" selected="1" id="4" startTime="46350" endTime="48350" palette="0" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="5" name="On" startTime="0" endTime="19900" palette="1" />
+      </EffectLayer>
       <EffectLayer />
     </Element>
     <Element type="model" name="Garage Door">
-      <EffectLayer />
-    </Element>
-    <Element type="model" name="50_Node_Candy_Cane">
       <EffectLayer />
     </Element>
     <Element type="model" name="50_Node_Candy_Cane-2">
@@ -52,8 +77,11 @@
     </Element>
     <Element type="model" name="Boscoyo_Singing_Santa">
       <EffectLayer>
-        <Effect ref="0" name="Faces" startTime="0" endTime="209650" palette="0" />
+        <Effect ref="6" name="Off" startTime="0" endTime="209800" palette="1" />
       </EffectLayer>
+    </Element>
+    <Element type="model" name="50_Node_Candy_Cane">
+      <EffectLayer />
     </Element>
     <Element type="timing" name="Lyrics">
       <EffectLayer>
@@ -831,7 +859,7 @@
         <Effect label="E" startTime="178500" endTime="178650" />
         <Effect label="AI" startTime="178650" endTime="178750" />
         <Effect label="etc" startTime="178750" endTime="178850" />
-        <Effect label="AI" selected="1" startTime="178850" endTime="180450" />
+        <Effect label="AI" startTime="178850" endTime="180450" />
         <Effect label="FV" startTime="180450" endTime="180550" />
         <Effect label="FV" startTime="181350" endTime="181450" />
         <Effect label="O" startTime="181450" endTime="181500" />
@@ -862,6 +890,35 @@
     </Element>
     <Element type="model" name="Single Line-4">
       <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo 16 inch Arrow flake">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 2 prong">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 3 prong">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 Arrow">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 12 Diamond">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 16 2 prong">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 16 3 prong">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 16 Diamond">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mrs_Claus_New_for_Model">
+      <EffectLayer>
+        <Effect ref="7" name="Faces" startTime="0" endTime="209650" palette="2" />
+      </EffectLayer>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
